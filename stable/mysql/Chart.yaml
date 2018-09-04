@@ -1,5 +1,5 @@
 name: mysql
-version: 0.8.8
+version: 0.8.9
 appVersion: 5.7.14
 description: Fast, reliable, scalable, and easy to use open-source relational database
   system. This is a test.
